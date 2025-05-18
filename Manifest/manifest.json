@@ -3,12 +3,12 @@
   "short_name": "WST",
   "icons": [
     {
-      "src": "favicon/web-app-manifest-192x192.png",
+      "src": "https://drive.google.com/uc?id=13njqZDgXE0uA8_UzYvLK_IKD4Ncv4pUq",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "favicon/web-app-manifest-512x512.png",
+      "src": "https://drive.google.com/uc?id=14elYiKQTkfWMjqCHQXUlAQJWwIc4NFvk",
       "sizes": "512x512",
       "type": "image/png"
     }
